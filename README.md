@@ -22,3 +22,6 @@ Time Complexity: Average case: Aradığımız sayının ortada olması,Worst cas
 
 Avarage Case
 
+
+
+www.patika.dev
